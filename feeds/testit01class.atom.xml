@@ -7,7 +7,7 @@
     &lt;div class="swiper"&gt;
       &lt;div class="swiper-wrapper"&gt;
         &lt;div class="swiper-slide"&gt;
-          &lt;img src="/images/test_portalsite/TestIt01Class/test_01_01_ホーム画面レイアウト確認/1.png" alt="1.png"/&gt;
+          &lt;img src="{{ SITEURL }}/images/test_portalsite/TestIt01Class/test_01_01_ホーム画面レイアウト確認/1.png" alt="1.png"/&gt;
         &lt;/div&gt;
       &lt;/div&gt;
       &lt;div class="swiper-pagination"&gt;&lt;/div&gt;
@@ -20,7 +20,7 @@
 &lt;h2&gt;エビデンス&lt;/h2&gt;
 &lt;h4&gt;レイアウト確認&lt;/h4&gt;
 &lt;p&gt;[image1]&lt;/p&gt;
-&lt;p&gt;&lt;img alt="image1" src="/images/test_portalsite/TestIt01Class/test_01_01_ホーム画面レイアウト確認/1.png"&gt;&lt;/p&gt;</content><category term="TestIt01Class"></category><category term="test_portalsite"></category></entry><entry><title>01_02_ホーム画面グローバルナビ遷移</title><link href="https://hiroyalab.github.io/testsite.github.io/test_portalsite/TestIt01Class/test_01_02_%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%8A%E3%83%93%E9%81%B7%E7%A7%BB.html" rel="alternate"></link><published>2024-02-28T00:00:00+09:00</published><updated>2024-02-28T00:00:00+09:00</updated><author><name>hiroya</name></author><id>tag:hiroyalab.github.io,2024-02-28:/testsite.github.io/test_portalsite/TestIt01Class/test_01_02_ホーム画面グローバルナビ遷移.html</id><summary type="html">&lt;h2&gt;スライドショーで確認&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="image1" src="{{ SITEURL }}/images/test_portalsite/TestIt01Class/test_01_01_ホーム画面レイアウト確認/1.png"&gt;&lt;/p&gt;</content><category term="TestIt01Class"></category><category term="test_portalsite"></category></entry><entry><title>01_02_ホーム画面グローバルナビ遷移</title><link href="https://hiroyalab.github.io/testsite.github.io/test_portalsite/TestIt01Class/test_01_02_%E3%83%9B%E3%83%BC%E3%83%A0%E7%94%BB%E9%9D%A2%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%8A%E3%83%93%E9%81%B7%E7%A7%BB.html" rel="alternate"></link><published>2024-02-28T00:00:00+09:00</published><updated>2024-02-28T00:00:00+09:00</updated><author><name>hiroya</name></author><id>tag:hiroyalab.github.io,2024-02-28:/testsite.github.io/test_portalsite/TestIt01Class/test_01_02_ホーム画面グローバルナビ遷移.html</id><summary type="html">&lt;h2&gt;スライドショーで確認&lt;/h2&gt;
 &lt;div class="hidden_box"&gt;
   &lt;input type="checkbox" id="labelX"/&gt;
   &lt;label for="labelX"&gt;スライドショー&lt;/label&gt;
