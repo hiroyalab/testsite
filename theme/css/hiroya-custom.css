@@ -1,3 +1,5 @@
+@charset "Shift_JIS";
+
 .custom-table1{
     overflow: auto;
     width: 100%;
@@ -62,7 +64,7 @@
 }
 
 .hidden_box label:after {
-	content: "ã‚’è¡¨ç¤º";	/* é–‰ã˜ã¦ã„ã‚‹çŠ¶æ…‹ã®ã¨ãã«ãƒ©ãƒ™ãƒ«ã®å¾Œã‚ã«ç¶šãæ–‡å­— */
+	content: "‚ğ•\¦";	/* •Â‚¶‚Ä‚¢‚éó‘Ô‚Ì‚Æ‚«‚Éƒ‰ƒxƒ‹‚ÌŒã‚ë‚É‘±‚­•¶š */
 }
 
 .hidden_box input {
@@ -79,7 +81,7 @@
 }
 
 .hidden_box input:checked + label:after {
-	content: "ã‚’éè¡¨ç¤º";	/* é–‹ã„ã¦ã„ã‚‹çŠ¶æ…‹ã®ã¨ãã«ãƒ©ãƒ™ãƒ«ã®å¾Œã‚ã«ç¶šãæ–‡å­— */
+	content: "‚ğ”ñ•\¦";	/* ŠJ‚¢‚Ä‚¢‚éó‘Ô‚Ì‚Æ‚«‚Éƒ‰ƒxƒ‹‚ÌŒã‚ë‚É‘±‚­•¶š */
 }
 
 .hidden_box input:checked ~ .hidden_show {

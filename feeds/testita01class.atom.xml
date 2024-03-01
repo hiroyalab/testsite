@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TestEvidences - TestITa01Class</title><link href="https://hiroyalab.github.io/pelican-test/" rel="alternate"></link><link href="https://hiroyalab.github.io/pelican-test/feeds/testita01class.atom.xml" rel="self"></link><id>https://hiroyalab.github.io/pelican-test/</id><updated>2024-02-14T00:00:00+09:00</updated><entry><title>1_1</title><link href="https://hiroyalab.github.io/pelican-test/test_micreed/TestITa01Class/test_1_1.html" rel="alternate"></link><published>2024-02-14T00:00:00+09:00</published><updated>2024-02-14T00:00:00+09:00</updated><author><name>hiroya</name></author><id>tag:hiroyalab.github.io,2024-02-14:/pelican-test/test_micreed/TestITa01Class/test_1_1.html</id><content type="html">&lt;h2&gt;スライドショーで確認&lt;/h2&gt;
+&lt;div class="hidden_box"&gt;
+  &lt;input type="checkbox" id="labelX"/&gt;
+  &lt;label for="labelX"&gt;スライドショー&lt;/label&gt;
+  &lt;div class="hidden_show"&gt;
+    &lt;div class="swiper"&gt;
+      &lt;div class="swiper-wrapper"&gt;
+        &lt;div class="swiper-slide"&gt;
+          &lt;img src="/images/test_micreed/TestITa01Class/test_1_1/1.png" alt="1.png"/&gt;
+        &lt;/div&gt;
+        &lt;div class="swiper-slide"&gt;
+          &lt;img src="/images/test_micreed/TestITa01Class/test_1_1/2.png" alt="2.png"/&gt;
+        &lt;/div&gt;
+        &lt;div class="swiper-slide"&gt;
+          &lt;img src="/images/test_micreed/TestITa01Class/test_1_1/3.png" alt="3.png"/&gt;
+        &lt;/div&gt;
+        &lt;div class="swiper-slide"&gt;
+          &lt;img src="/images/test_micreed/TestITa01Class/test_1_1/4.png" alt="4.png"/&gt;
+        &lt;/div&gt;
+        &lt;div class="swiper-slide"&gt;
+          &lt;img src="/images/test_micreed/TestITa01Class/test_1_1/5.png" alt="5.png"/&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class="swiper-pagination"&gt;&lt;/div&gt;
+      &lt;div class="swiper-button-prev"&gt;&lt;/div&gt;
+      &lt;div class="swiper-button-next"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2&gt;エビデンス&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;受注ヘッダテーブル&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;image1
+&lt;img alt="image1" src="/images/test_micreed/TestITa01Class/test_1_1/1.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;image2
+&lt;img alt="image2" src="/images/test_micreed/TestITa01Class/test_1_1/2.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;image3
+&lt;img alt="image3" src="/images/test_micreed/TestITa01Class/test_1_1/3.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;image4
+&lt;img alt="image4" src="/images/test_micreed/TestITa01Class/test_1_1/4.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;image5
+&lt;img alt="image5" src="/images/test_micreed/TestITa01Class/test_1_1/5.png"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="TestITa01Class"></category><category term="TestITa01Class"></category><category term="test_micreed"></category></entry></feed>
